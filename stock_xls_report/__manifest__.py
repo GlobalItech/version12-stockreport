@@ -6,7 +6,6 @@
     'summary': "Current Stock Report for all Products in each Warehouse",
     'author': 'ItechResources',
     'company': 'ItechResources',
-    'website': 'http://www.cybrosys.com',
     'depends': [
                 'base',
                 'stock',
