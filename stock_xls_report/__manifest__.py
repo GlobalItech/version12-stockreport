@@ -17,7 +17,6 @@
             'views/wizard_view.xml',
             'views/wh_location.xml',
             ],
-    'images': ['static/description/banner.jpg'],
     'installable': True,
     'price':'10.0',
     'currency': 'EUR',
